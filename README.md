@@ -34,10 +34,10 @@ git clone https://github.com/Kunal-Sobti/DSA_Problems.git
 cd DSA_Problems
 ```
 2.Browse by Platform
-Navigate into your desired folder:
-- cd Leetcode
-- cd Codeforces
-- cd GeeksforGeeks
+- Navigate into your desired folder:
+  - cd Leetcode
+  - cd Codeforces
+  - cd GeeksforGeeks
 #...and so on
 3.Search for Problems
 - Use your code editor’s search or grep/find to locate problems by name or number.
@@ -53,10 +53,9 @@ Navigate into your desired folder:
 
 ## 🙌 Contribute
 - If you find a better solution or want to add new problems:
-
-Fork this repository.
-- Make your changes.
-- Submit a pull request!
+  - Fork this repository.
+  - Make your changes.
+  - Submit a pull request!
 ## 🎯 Stay Connected
 For updates, tips, or DSA discussion, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kunalsobti3204/) or explore my other projects on [GitHub](https://github.com/Kunal-Sobti)
 
