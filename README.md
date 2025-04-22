@@ -14,17 +14,17 @@ CSES – Solutions from the CSES Problemset, organized by question name and numb
 - boiler.cpp – My competitive programming boilerplate with optimized macros, templates, and utility functions.
 - All filenames follow PascalCase formatting.
 ## 🧭 Navigation Guide
-🔹 LeetCode
+- 🔹 LeetCode
 Navigate using either the question name or question number.
 File names include the problem number for fast searching.
-🔹 CSES
+- 🔹 CSES
 Search solutions by problem name or problem number (matches CSES Problemset index).
-🔹 Codeforces & Codechef
+- 🔹 Codeforces & Codechef
 Organized by:
 - Contest date
 - Problem number (e.g., A, B, C…)
 - Division type (Div2, Div3, etc.)
-🔹 GeeksforGeeks
+- 🔹 GeeksforGeeks
 - Find solutions using the problem name.
 ## 🚀 How to Use
 1.Clone the Repository
@@ -61,4 +61,4 @@ Fork this repository.
 For updates, tips, or DSA discussion, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kunalsobti3204/) or explore my other projects on [GitHub](https://github.com/Kunal-Sobti)
 
 - Happy Coding! 💻✨
-– KUNAL SOBTI
+-  KUNAL SOBTI
