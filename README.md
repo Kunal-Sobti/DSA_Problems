@@ -14,54 +14,51 @@ CSES – Solutions from the CSES Problemset, organized by question name and numb
 - boiler.cpp – My competitive programming boilerplate with optimized macros, templates, and utility functions.
 - All filenames follow PascalCase formatting.
 ## 🧭 Navigation Guide
-- 🔹 LeetCode
+🔹 LeetCode
 Navigate using either the question name or question number.
 File names include the problem number for fast searching.
-- 🔹 CSES
+🔹 CSES
 Search solutions by problem name or problem number (matches CSES Problemset index).
-- 🔹 Codeforces & Codechef
+🔹 Codeforces & Codechef
 Organized by:
 - Contest date
 - Problem number (e.g., A, B, C…)
 - Division type (Div2, Div3, etc.)
-- 🔹 GeeksforGeeks
+🔹 GeeksforGeeks
 - Find solutions using the problem name.
 ## 🚀 How to Use
-Clone the Repository
+1.Clone the Repository
 
 ```sh
 git clone https://github.com/Kunal-Sobti/DSA_Problems.git
-```
 cd DSA_Problems
-Browse by Platform
-
+```
+2.Browse by Platform
 Navigate into your desired folder:
 - cd Leetcode
 - cd Codeforces
 - cd GeeksforGeeks
-# ...and so on
-Search for Problems
-
-Use your code editor’s search or grep/find to locate problems by name or number.
-View Solutions
-
-Click on the files to read clean, commented, and optimized C++ solutions.
+#...and so on
+3.Search for Problems
+- Use your code editor’s search or grep/find to locate problems by name or number.
+4.View Solutions
+- Click on the files to read clean, commented, and optimized C++ solutions.
 ## 🛠️ Tech Stack
-Language: C++17/20
-IDE: VS Code / Sublime Text / Online Judges
-Tools: Git, GitHub
+- Language: C++17/20
+- IDE: VS Code / Sublime Text / Online Judges
+- Tools: Git, GitHub
 ## 📜 License
-This repository is licensed under the MIT License.
-Feel free to fork, contribute, and use the code for learning or interviews.
+- This repository is licensed under the MIT License.
+- Feel free to fork, contribute, and use the code for learning or interviews.
 
 ## 🙌 Contribute
-If you find a better solution or want to add new problems:
+- If you find a better solution or want to add new problems:
 
 Fork this repository.
-Make your changes.
-Submit a pull request!
+- Make your changes.
+- Submit a pull request!
 ## 🎯 Stay Connected
-For updates, tips, or DSA discussion, feel free to connect with me on [LinkedIn](www.linkedin.com/in/kunalsobti3204) or explore my other projects on [GitHub](https://github.com/Kunal-Sobti)
+For updates, tips, or DSA discussion, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kunalsobti3204/) or explore my other projects on [GitHub](https://github.com/Kunal-Sobti)
 
-Happy Coding! 💻✨
+- Happy Coding! 💻✨
 – KUNAL SOBTI
