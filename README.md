@@ -59,5 +59,5 @@ cd DSA_Problems
 ## 🎯 Stay Connected
 For updates, tips, or DSA discussion, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kunalsobti3204/) or explore my other projects on [GitHub](https://github.com/Kunal-Sobti)
 
-- Happy Coding! 💻✨
- - *KUNAL SOBTI*
+Happy Coding! 💻 ✨  
+*– Kunal Sobti*
