@@ -4,39 +4,41 @@ A curated collection of Data Structures and Algorithms (DSA) problem solutions f
 This repository contains my solutions to problems from the following platforms:
 
 CSES – Solutions from the CSES Problemset, organized by question name and number.
-Codechef – Solutions organized by contest date, problem number, and division type.
-Codeforces – Solutions sorted by contest date, problem number, and division type.
-CodeStudio (Now Coding Ninjas) – Solutions categorized by question name.
-GeeksforGeeks – Solutions written in PascalCase, organized by question name.
-InterviewBit – Solutions organized by question name.
-LeetCode – Solutions arranged by question name and number for easy lookup.
-Data Structures – Modular, reusable implementations of commonly used data structures.
-boiler.cpp – My competitive programming boilerplate with optimized macros, templates, and utility functions.
-All filenames follow PascalCase formatting.
+- Codechef – Solutions organized by contest date, problem number, and division type.
+- Codeforces – Solutions sorted by contest date, problem number, and division type.
+- CodeStudio (Now Coding Ninjas) – Solutions categorized by question name.
+- GeeksforGeeks – Solutions written in PascalCase, organized by question name.
+- InterviewBit – Solutions organized by question name.
+- LeetCode – Solutions arranged by question name and number for easy lookup.
+- Data Structures – Modular, reusable implementations of commonly used data structures.
+- boiler.cpp – My competitive programming boilerplate with optimized macros, templates, and utility functions.
+- All filenames follow PascalCase formatting.
 ## 🧭 Navigation Guide
-🔹 LeetCode
+- 🔹 LeetCode
 Navigate using either the question name or question number.
 File names include the problem number for fast searching.
-🔹 CSES
+- 🔹 CSES
 Search solutions by problem name or problem number (matches CSES Problemset index).
-🔹 Codeforces & Codechef
+- 🔹 Codeforces & Codechef
 Organized by:
-Contest date
-Problem number (e.g., A, B, C…)
-Division type (Div2, Div3, etc.)
-🔹 GeeksforGeeks
-Find solutions using the problem name.
+- Contest date
+- Problem number (e.g., A, B, C…)
+- Division type (Div2, Div3, etc.)
+- 🔹 GeeksforGeeks
+- Find solutions using the problem name.
 ## 🚀 How to Use
 Clone the Repository
 
-git clone https://github.com/lakshitcodes/DSA_Problems.git
+```sh
+git clone https://github.com/Kunal-Sobti/DSA_Problems.git
+```
 cd DSA_Problems
 Browse by Platform
 
 Navigate into your desired folder:
-cd Leetcode
-cd Codeforces
-cd GeeksforGeeks
+- cd Leetcode
+- cd Codeforces
+- cd GeeksforGeeks
 # ...and so on
 Search for Problems
 
